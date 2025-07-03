@@ -78,7 +78,7 @@ networks:
 
 volumes:
   my-own-volume: {}
-
+```
 ---
 
 ## key parts of a docker-compose.yaml
